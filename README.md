@@ -1,2 +1,2 @@
-# cv
-here is my latest cv / resume
+# CV
+Here yo can find my latest cv / resume
